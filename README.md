@@ -1,6 +1,7 @@
 Zabbix-Dashboard
 ================
 Atualizado as libs php e js, melhorou a vizualização mas ainda não ficou como na imagem abaixo.
+Adicionad o filtro groupids, permite filtrar por grupo usando a url : hostgroup01.php?groupids=8
 
 
 Trying to build a better dashboard function for Zabbix via the php api.
