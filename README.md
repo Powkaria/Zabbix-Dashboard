@@ -1,5 +1,7 @@
 Zabbix-Dashboard
 ================
+Atualizado as libs php e js, melhorou a vizualização mas ainda não ficou como na imagem abaixo.
+
 
 Trying to build a better dashboard function for Zabbix via the php api.
 
@@ -22,5 +24,4 @@ Trying to build a better dashboard function for Zabbix via the php api.
     <li>Triggered host blocks will get the state normal when the trigger state is "OK" (via acknowledgment of trigger or threshold level is normal)</li>
 </ul>
 
-I have tested the dashboard on Zabbix 2.2.2 but I think it will work fine in 2.4, although you might need a newer php api version.
-As we make use of the Zabbix php api, we have included it's GPLv3 license
+Testado com a ultima versão do zabbix 3.2
